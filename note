@@ -1,4 +1,12 @@
 array.slice(2, 5);
 array.includes('word');
 
+parseInt()
+parseFloat()
+
+break;
+continue;
+
+
+
 
