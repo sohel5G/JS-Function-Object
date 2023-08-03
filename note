@@ -1,0 +1,4 @@
+array.slice(2, 5);
+array.includes('word');
+
+
