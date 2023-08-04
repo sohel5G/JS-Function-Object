@@ -55,13 +55,54 @@ console.log(gorAvg);
 */
 
 
+/*
 function squire (number) {
     let result = number * number;
     return result;
 }
 console.log(squire(9));
-
-
 let myComputer 
+*/
+
+
+
+
+
+/*
+let mobile = {
+    brand : 'Samsung',
+    color : 'Black',
+    price : 29500,
+    ram : 6,
+};
+
+// console.log(mobile.price);
+// mobile.price = 32000;
+// console.log(mobile);
+// console.log(mobile['price']);
+// mobile['price'] = 40000;
+// console.log(mobile);
+
+let mobileProperty = Object.keys(mobile);
+
+// console.log(mobileProperty);
+// console.log(mobileValue);
+
+for(let x = 0; x < mobileProperty.length; x++){
+    let mproperty = mobileProperty[x];
+    let mvalue = mobile[mproperty];    
+    
+    console.log(mproperty, ':', mvalue);
+}
+
+// for in loop 
+for(var mproperty in mobile){
+    console.log(mproperty);
+}
+*/
+
+
+
+
 
 

@@ -7,6 +7,28 @@ parseFloat()
 break;
 continue;
 
+function funcName(){}
+
+Object.property // show property value
+Object.property = add new value //change curren value 
+Object['property'] // show property value
+Object['property'] = add new value //change curren value
+
+Object.keys()
+Object.values()
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
